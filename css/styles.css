@@ -1,0 +1,37 @@
+.boton1{
+    background-color: #E8EC1A;
+    width: 50px;
+    text-decoration-color: black;
+    border-radius: 10px 5px 10px 5px;
+}
+
+#boton2{
+    background-color:#24BC50;
+    width: 40px;
+    color:white;
+}
+
+div{
+    background-color: #847AC4;
+    font-size: 40px;
+    text-align: center;
+}
+
+.right {
+    position: absolute;
+    right: 10px;
+    width: 300px;
+    border: 3px solid #E8EC1A;
+    padding: 10px;
+  }
+
+  .body{
+      text-align: center;
+      background-color: #4A4D4B;
+  }
+
+  h2{
+    font-family: fantasy;
+    color: #D90A0A;
+    font-size: 5rem;
+  }
